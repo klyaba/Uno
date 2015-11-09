@@ -1,8 +1,5 @@
 Hello, world! Bla bla bla
 Полная мерзость. как эта гадость вообще работает
-<<<<<<< HEAD
 !!!!!!!!!!!!!!!!!!
 merzost` number 2
-=======
-!!!!!!!!!!!!!!!!!!
->>>>>>> refs/remotes/origin/master
+Fuck the system!!!
